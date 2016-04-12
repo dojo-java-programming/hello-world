@@ -1,0 +1,17 @@
+# Maven Configuration
+target/
+
+# Generic
+tmp/
+
+# Maven Configuration
+target/
+
+# Eclipse Configuration
+.settings/
+.classpath
+.project
+
+# IntelliJ Configuration
+.idea/
+*.iml
